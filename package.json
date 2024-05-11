@@ -2,8 +2,8 @@
     "private": true,
     "name": "@solana/wallet-adapter",
     "author": "Solana Maintainers <maintainers@solana.foundation>",
-    "repository": "https://github.com/solana-labs/wallet-adapter",
-    "license": "Apache-2.0",
+    "repository": "https://github.com/RadinaAvramova/wallet-adapter",
+    "license": "",
     "engines": {
         "node": ">=16",
         "pnpm": ">=8"
