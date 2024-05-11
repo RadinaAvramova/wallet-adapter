@@ -2,7 +2,7 @@
     "name": "@solana/wallet-adapter-fractal",
     "version": "0.1.8",
     "author": "Solana Maintainers <maintainers@solana.foundation>",
-    "repository": "https://github.com/solana-labs/wallet-adapter",
+    "repository": "https://github.com/RadinaAvramova/wallet-adapter",
     "license": "",
     "publishConfig": {
         "access": "public"
